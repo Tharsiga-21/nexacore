@@ -1,3 +1,4 @@
+
 # 🖥️ NexaCore — Project 2
 
 A responsive SaaS landing page built with HTML and CSS as part of the DecodeLabs Frontend Development Internship (Batch 2026).
@@ -18,6 +19,8 @@ This project focuses on **Responsive Web Layout** — ensuring the design gracef
 - Responsive design
 - CSS layout techniques
 - Mobile-first development
-
+  
+<img width="914" height="738" alt="Screenshot 2026-06-11 134413" src="https://github.com/user-attachments/assets/d4bd3f1b-912f-4bb5-8827-9896b36fa51b" />
+<img width="923" height="774" alt="Screenshot 2026-06-11 134358" src="https://github.com/user-attachments/assets/43f7cc83-3578-483c-a16f-7f4e4e854c48" />
 ---
 *DecodeLabs Frontend Development Internship — Batch 2026*
